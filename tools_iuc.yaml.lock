@@ -471,6 +471,7 @@ tools:
   revisions:
   - 1e10310ce195
   - 41bfbaf3c959
+  - a9fb165808c8
   - dda44fd49bcd
   tool_panel_section_label: Annotation
 - name: roary
@@ -1189,6 +1190,7 @@ tools:
   owner: iuc
   revisions:
   - 1080e07a2233
+  - 7adddc6015c1
   - b79f6002b176
   - cfea1d6354db
   tool_panel_section_label: Convert Formats
@@ -3563,6 +3565,7 @@ tools:
   - 892a0629e2ed
   - a6c3f4f439f7
   - b18594e1a514
+  - f93a61ef06cf
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_assigntaxonomyaddspecies
   owner: iuc
@@ -3675,27 +3678,32 @@ tools:
   owner: iuc
   revisions:
   - 3c7d2c84cb09
+  - c8136920948b
   - fd5830f88314
 - name: amrfinderplus_data_manager_build
   owner: iuc
   revisions:
+  - 592ef3959907
   - eea0c38a9afd
 - name: data_manager_bakta
   owner: iuc
   revisions:
   - a19189a128cb
+  - adfd6bf710bd
   - bb463043c93e
 - name: drep_compare
   owner: iuc
   revisions:
   - 54aa421c2911
   - 7157accd23d0
+  - 965f73e77296
   - d99788b71ce7
   - ef1c257adcbd
   tool_panel_section_label: Metagenomic Analysis
 - name: drep_dereplicate
   owner: iuc
   revisions:
+  - 1faea6e8c92b
   - 368cb4bef9d8
   - 8dfcdbeaeed8
   - a0713a10c9f6
@@ -3733,6 +3741,7 @@ tools:
   - 2e38deed28ee
   - 5b2f8b6a3609
   - 5eccd3d336a3
+  - 6efa06ffbac8
   - 97ad0d817a45
   - b4c750fe0fe3
   - b6ecdfac241f
@@ -4206,6 +4215,7 @@ tools:
 - name: merge_metaphlan_tables
   owner: iuc
   revisions:
+  - 0270541aaf46
   - 27250f92a01a
   - 27258eb73f0c
   - 2e5ae05160e0
@@ -4239,6 +4249,7 @@ tools:
 - name: metaphlan
   owner: iuc
   revisions:
+  - 1a6cdf55390f
   - 2131d7dca455
   - 6dee4abadccb
   - a16313517e55
@@ -7471,6 +7482,7 @@ tools:
 - name: ruvseq
   owner: iuc
   revisions:
+  - 3a083c78896e
   - 61dffb20b6f9
   - c24765926774
   - d1f7fa5bb3cb
@@ -9741,12 +9753,14 @@ tools:
   - d6e72da3ec35
   - e319b5b65879
   - e4ee04da1c19
+  - ede363a64152
   - f362150bef41
   tool_panel_section_label: Virology
 - name: ivar_filtervariants
   owner: iuc
   revisions:
   - 0135f1d487a0
+  - 096a5b0210cc
   - 2b95d5c04908
   - 2c47c138176e
   - 47a27906d750
@@ -9784,10 +9798,12 @@ tools:
   - bd2a7d1316b9
   - ee29337f905c
   - ee2beb764a7b
+  - f57ce5d5c997
   tool_panel_section_label: Virology
 - name: ivar_trim
   owner: iuc
   revisions:
+  - 28e4bcbc86e7
   - 364f4ffec275
   - 397e5f0eb3ef
   - 5671e1d3d5ee
@@ -9807,6 +9823,7 @@ tools:
   owner: iuc
   revisions:
   - 12d66d0d05ac
+  - 230b05597996
   - 252dfb042563
   - 3888bbe7a9ca
   - 38b91a3190cd
@@ -9836,6 +9853,7 @@ tools:
   owner: iuc
   revisions:
   - 9002633b4737
+  - ed1518ce2237
 - name: data_manager_diamond_database_builder
   owner: iuc
   revisions:
