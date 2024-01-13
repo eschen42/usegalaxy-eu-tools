@@ -1401,6 +1401,7 @@ tools:
   owner: iuc
   revisions:
   - 43d7b3642a30
+  - 5ac8a4bf7a8d
   - a01f088d0e5e
   tool_panel_section_label: Expression Tools
 - name: b2btools_single_sequence
@@ -4230,6 +4231,7 @@ tools:
   revisions:
   - 11658afb8c87
   - b4038a4d48f5
+  - dcd30574a456
   tool_panel_section_label: Metagenomic Analysis
 - name: khmer_abundance_distribution
   owner: iuc
@@ -4548,6 +4550,7 @@ tools:
   revisions:
   - aaa868913641
   - bd2a15dbcea1
+  - f355085dd2aa
   tool_panel_section_label: Metagenomic Analysis
 - name: recentrifuge
   owner: iuc
@@ -7772,6 +7775,7 @@ tools:
   owner: iuc
   revisions:
   - 33c060ec0ac9
+  - 8e66f695d859
   - 96f74538896e
   - e989670c7fc7
   - f89e3c318453
